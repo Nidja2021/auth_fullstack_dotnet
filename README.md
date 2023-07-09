@@ -1,7 +1,7 @@
 
-# Authentication and authorization API (in progress)
+# Authentication  API (in progress)
 
-An authentication and authorization project built with ASP.NET Core Web API using .NET 7, MS SQL, Entity Framework, and JWT involves implementing a secure and reliable mechanism for user authentication and authorization.
+An authentication project built with ASP.NET Core Web API using .NET 7, MS SQL, Entity Framework, and JWT involves implementing a secure and reliable mechanism for user authentication.
 
 ## Technologies
 - .NET 7
